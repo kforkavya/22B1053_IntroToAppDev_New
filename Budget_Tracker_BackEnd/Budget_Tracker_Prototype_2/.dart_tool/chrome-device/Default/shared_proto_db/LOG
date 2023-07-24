@@ -1,0 +1,6 @@
+2023/07/24-23:42:02.990 b503 Reusing MANIFEST /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.uC42lh/flutter_tools_chrome_device.A08XXc/Default/shared_proto_db/MANIFEST-000001
+2023/07/24-23:42:02.990 b503 Recovering log #4
+2023/07/24-23:42:02.990 b503 (ignoring error) /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.uC42lh/flutter_tools_chrome_device.A08XXc/Default/shared_proto_db/000004.log: dropping 25788 bytes; Corruption: checksum mismatch
+2023/07/24-23:42:02.990 b503 (ignoring error) /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.uC42lh/flutter_tools_chrome_device.A08XXc/Default/shared_proto_db/000004.log: dropping 180 bytes; Corruption: missing start of fragmented record(2)
+2023/07/24-23:42:02.990 b503 Reusing old log /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.uC42lh/flutter_tools_chrome_device.A08XXc/Default/shared_proto_db/000004.log 
+2023/07/24-23:42:02.991 b503 Delete type=0 #3

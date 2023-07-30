@@ -1,0 +1,8 @@
+2023/07/30-19:49:42.069 a203 Reusing MANIFEST /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.VrUhxw/flutter_tools_chrome_device.sRcpZz/Default/shared_proto_db/MANIFEST-000001
+2023/07/30-19:49:42.069 a203 Recovering log #10
+2023/07/30-19:49:42.069 a203 (ignoring error) /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.VrUhxw/flutter_tools_chrome_device.sRcpZz/Default/shared_proto_db/000010.log: dropping 25484 bytes; Corruption: checksum mismatch
+2023/07/30-19:49:42.069 a203 (ignoring error) /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.VrUhxw/flutter_tools_chrome_device.sRcpZz/Default/shared_proto_db/000010.log: dropping 507 bytes; Corruption: missing start of fragmented record(2)
+2023/07/30-19:49:42.069 a203 Reusing old log /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.VrUhxw/flutter_tools_chrome_device.sRcpZz/Default/shared_proto_db/000010.log 
+2023/07/30-19:49:42.070 a203 Delete type=0 #7
+2023/07/30-19:49:42.070 a203 Delete type=0 #4
+2023/07/30-19:49:42.070 a203 Delete type=0 #3

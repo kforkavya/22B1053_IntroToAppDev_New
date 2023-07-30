@@ -1,0 +1,26 @@
+2023/07/30-16:32:54.461 8603 Creating DB /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.s0uEJH/flutter_tools_chrome_device.Z7nlZq/Default/IndexedDB/http_localhost_51175.indexeddb.leveldb since it was missing.
+2023/07/30-16:32:54.477 8603 Reusing MANIFEST /private/var/folders/k2/ptp9f3s94r74xgmw0knzgjs40000gn/T/flutter_tools.s0uEJH/flutter_tools_chrome_device.Z7nlZq/Default/IndexedDB/http_localhost_51175.indexeddb.leveldb/MANIFEST-000001
+2023/07/30-16:32:54.514 f403 Level-0 table #5: started
+2023/07/30-16:32:54.519 f403 Level-0 table #5: 1222 bytes OK
+2023/07/30-16:32:54.529 f403 Delete type=0 #3
+2023/07/30-16:32:54.530 a807 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/30-17:01:00.263 f503 Level-0 table #7: started
+2023/07/30-17:01:00.273 f503 Level-0 table #7: 20936 bytes OK
+2023/07/30-17:01:00.287 f503 Delete type=0 #4
+2023/07/30-17:01:00.288 8603 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/30-17:01:39.483 8603 Compacting 1@1 + 1@2 files
+2023/07/30-17:01:39.490 8603 Generated table #8@1: 40 keys, 3062 bytes
+2023/07/30-17:01:39.490 8603 Compacted 1@1 + 1@2 files => 3062 bytes
+2023/07/30-17:01:39.498 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/30-17:01:39.498 8603 Delete type=2 #7
+2023/07/30-17:01:39.498 8603 Delete type=2 #5
+2023/07/30-17:02:40.945 f503 Level-0 table #10: started
+2023/07/30-17:02:40.958 f503 Level-0 table #10: 6239 bytes OK
+2023/07/30-17:02:40.972 f503 Delete type=0 #6
+2023/07/30-17:02:40.972 a807 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/30-17:03:20.967 8603 Compacting 1@1 + 1@2 files
+2023/07/30-17:03:20.975 8603 Generated table #11@1: 40 keys, 3064 bytes
+2023/07/30-17:03:20.975 8603 Compacted 1@1 + 1@2 files => 3064 bytes
+2023/07/30-17:03:20.984 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/30-17:03:20.985 8603 Delete type=2 #10
+2023/07/30-17:03:20.985 8603 Delete type=2 #8
